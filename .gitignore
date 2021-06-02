@@ -6,3 +6,6 @@
 *.fit
 *.csv
 
+# Other
+.DS_Store
+
